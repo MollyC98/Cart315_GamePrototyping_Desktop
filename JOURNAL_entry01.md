@@ -1,11 +1,7 @@
 
 # CART 315 GAME PROTYPING: JOURNAL ENTRY 01,  TECHNICAL ANALYSIS OF TALOS PRINCIPLE I
-## Author: Mollika Chakraborty 
 
-### Rough Sketches and Mood Boards: 
-![Playtest Moodboard 1](assets/images/Playtest%20moodboard%201.png)
-![Playtest Moodboard 2](assets/images/Playtest%20%20moodboard%202.png)
-![Playtest Moddboard 3](assets/images/Playtest%20moodboard%203.png)
+## Author: Mollika Chakraborty 
 
 ### INTRODUCTION  
 
@@ -86,6 +82,35 @@ While these entities contribute significantly to the narrative and philosophical
 
 
 • Stars: Stars are special collectibles that players can acquire by solving particularly challenging or hidden puzzles. Collecting stars contributes to achieving certain endings and offers additional insights into the game's lore.
+
+#### Merits 
+
+• Multiple tools and sigils make the game interesting enough for the users to be stimulated enough and actually look for solutions within the game. 
+
+• Different tools in the game have very different purposes that helps in the progression of the gameplay and makes you want to come back and play it again. 
+
+#### Demerits 
+• The tools are beautifully designed but there’s not enough clarification on how they work. Sometimes you need to troubleshoot or go to YouTube to find solutions. 
+
+• Some of the tools like the “box” has too many constraints. As a player you can just jump on it and carry it which makes it difficult to surpass some levels within the game. 
+
+• Another problematic tool is the connector, which again has the same problem as the box, it has limitations but those are not clear within the game. 
+
+### Why I love this game? 
+
+• Mind blowing fantastic OST 
+
+• Philosophical Depth: The game delves into profound philosophical questions about consciousness, existence, free will, and the nature of reality. 
+
+• Intellectual Challenge: "The Talos Principle" is a puzzle-solving game that offers a significant intellectual challenge. The puzzles become increasingly complex, requiring creativity, critical thinking, and problem-solving skills. 
+
+• Rich Narrative: The game weaves a compelling narrative through environmental storytelling, audio logs, and philosophical texts. 
+
+• Atmospheric World Design: The game features visually stunning environments that create an immersive atmosphere. The combination of ancient ruins, futuristic elements, and serene landscapes adds to the overall experience. 
+
+• Freedom of Exploration: While primarily a puzzle game, "The Talos Principle" allows a degree of freedom in how players approach puzzles and explore the virtual world. This non-linear aspect can be appealing to those who enjoy open-ended gameplay and the freedom to explore at their own pace.
+
+• Artificial Intelligence Themes: The exploration of artificial intelligence, consciousness, and the relationship between humans and machines adds a sci-fi element to the game. Those interested in themes related to AI ethics and the potential future of technology may find that intriguing.
 
 
 
