@@ -10,10 +10,14 @@
 ### INTRODUCTION  
 
 ![Playtest Image 2](Images/Picture2.jpg)
+
+
 The first question the game makes you think as a player is; what makes humans a human? Is it just the consciousness that becomes the bridge between an AI and Human? One of the interesting things I have been observing within the game is that: there are several recordings as you proceed in the virtual world. Alexandra Drennan who used to be a human researcher working on the project Talos (as the narrative dictates) provides contexts of the player’s actions in the form of recordings. Through her voice the players understand the ethical and philosophical dilemmas the creators of the virtual world faced while looking for answers. One of her prompts defining the gap between Ai(s) and Humans felt very interesting to me it said “ Playing Games is a way of differentiating between humans and AI, because we don’t just play to learn something or to solve a problem, we play for fun, joy, sometimes anger and several other emotions which is not possible for an AI to comprehend the depth of it as it is possible for the humans”  
 Throughout the game, players encounter various texts, audio recordings, and messages that further explore the implications of the Talos Principle. These philosophical musings and challenges contribute to the overall narrative and thematic depth of "The Talos Principle," creating an experience that goes beyond traditional puzzle-solving games.
 
 ![Playtest Image 1](Images/Picture1.jpg)
+
+
 These QR codes are assumed to be written by previous androids who tried to accomplish
 Missions in the virtual world defying what God had planned for them. We see them quite often
 In the game, sometimes as clues and sometimes as prompts supporting the narrative.
@@ -51,15 +55,25 @@ While these entities contribute significantly to the narrative and philosophical
 
 •	Connector: The Connector is a tool that allows players to redirect laser beams. It is essential for solving puzzles that involve activating switches, unlocking doors, or manipulating other elements in the environment.
 ![Playtest Image 3](Images/Picture3.jpg)
+
+
 •	Jammer: The Jammer is a device that players can use to temporarily disable force fields, drones, and other obstacles. It plays a crucial role in overcoming challenges and accessing certain areas.
-![Playtest Image 4](Image/Picture4.jpg)
+
+
+![Playtest Image 4](Images/Picture4.jpg)
+
+
 •	Fan: The Fan is a tool that produces a powerful gust of wind. It can be used to propel objects, including players themselves, across gaps or into specific locations.
 •	Recorder: The Recorder allows players to record their actions and replay them, creating duplicates of themselves. This tool is used in puzzles that require teamwork or precise timing.
 •	Hexahedron: The Hexahedron is a cube that players can carry and use to hold down pressure plates or solve puzzles that involve manipulating physical objects.
 •	Red Sigils: Red Sigils are the primary collectibles in the game. They are often hidden or placed in challenging locations within puzzles. Collecting these sigils contributes to unlocking additional levels and areas.
 •	Yellow Sigils: Yellow Sigils are earned by completing more challenging versions of puzzles. These puzzles are often variations of existing ones but with added difficulty.
 •	Green Sigils: Green Sigils are awarded for completing the most challenging puzzles in the game. These puzzles are often located in special areas and require advanced problem-solving skills.
-![Playtest Image 5](Image/Picture5.jpg)
+
+
+![Playtest Image 5](Images/Picture5.jpg)
+
+
 •	Stars: Stars are special collectibles that players can acquire by solving particularly challenging or hidden puzzles. Collecting stars contributes to achieving certain endings and offers additional insights into the game's lore.
 
 
