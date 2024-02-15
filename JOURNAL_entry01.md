@@ -96,8 +96,7 @@ While these entities contribute significantly to the narrative and philosophical
 
 • Another problematic tool is the connector, which again has the same problem as the box, it has limitations but those are not clear within the game. 
 
-#### The techniques or Mechanics I would like to borrow for my future projects 
-
+### THE TECHNIQUES AND MECHANICS I WOULD LIKE TO BORROW FOR MY FUTURE GAMES
 • I would like to think of a complex narrative like the one as Talos Principle as I really enjoy mind twisting games.
 
 • The beautifully crafted environment is also an inspiration for me that I would like to borrow for my name game. 
@@ -108,7 +107,7 @@ While these entities contribute significantly to the narrative and philosophical
 • Talos Principle 1 is not a hard and fast game which is a trait I eally look for in games. Competitive games don't intrigue me as much, therefore, I would like to borrow that as well for my future projects. 
 
 
-### Why I love this game? 
+### WHY I LOVE THIS GAME? 
 
 • Mind blowing fantastic OST 
 
