@@ -8,7 +8,7 @@
 ### Design Progress and Game Mechanics 
 
 ### Game Map 
-![Rough Sketch](Images/final_game_map.jpeg)
+![Rough Sketch](Images/final_game_map.jpg)
 
 ### Items to be found within the gameplay. 
 1) The Portland Vase - Italy - key (to be defended to move on in the gameplay)
