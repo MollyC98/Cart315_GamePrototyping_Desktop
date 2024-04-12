@@ -362,6 +362,16 @@ We have been able to implement the basic goal of the game which is collecting th
 
 As this is a team project me and my teammate have been constantly trying to play while be run into issues, we have also asked our friends from the class to  try out the basic jump mechanics and moving of the character as that was the first thing we figured out. 
 For some testers the jump was bit too high given that the tiles or the platform where you need to climb as a player are placed in lower levels. This makes the game too easy for them.
+
+
+# CART 315 GAME PROTYPING: JOURNAL ENTRY 06,  Design Ideas Final Project, Prototyping Stage 3
+
+## Authors: Mollika Chakraborty & Maloney Khim 
+
+## Working Game Title: Give It Back!
+
+### Major Issues 
+
 We did run into major issues in terms of collision to work for our first enely called the guard. Everytime I made changes in the guard it somehow affected my player even though both the scripts are completely different. We did spend a lot of time trouble shooting which brought us back to an older version of the game we saved becuase we lost all the progress. 
 
 ### What we planned the game would do? 
@@ -373,6 +383,12 @@ Educational Experience: The game aims to educate players about the complexities 
 Moral Dilemmas and Choices: Throughout the game, players may encounter moral dilemmas and choices that impact the outcome of their journey. The goal is to encourage players to reflect on their actions and consider the ethical implications of returning stolen artifacts versus preserving them in museum collections.
 
 Stealth and Strategy: Given the presence of museum guards and security systems, another goal of the game is to utilize stealth, agility, and quick thinking to evade capture and complete the mission. Players must carefully plan their actions and use the environment to their advantage to succeed.
+
+# CART 315 GAME PROTYPING: JOURNAL ENTRY 07,  Design Ideas Final Project, Prototyping Stage 4
+
+## Authors: Mollika Chakraborty & Maloney Khim 
+
+## Working Game Title: Give It Back!
 
 ### Room  for improvisations and fututre incorporations given the time crunch we faced
 
