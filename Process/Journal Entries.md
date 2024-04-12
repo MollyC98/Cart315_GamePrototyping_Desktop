@@ -321,3 +321,68 @@ The player assumes the role of a daring thief on a mission to reclaim treasures 
 3) Make it informative in a witty way, for example at the end of the game producing the list of items the ninja recovered and stating facts about the items, the country they belong to or how it was stolen. 
 4) Adding ghosts like creatures inspired from Harry Potter movies and books. 
 5) Make the character hide at the certain occasions within the game, this keeps the mystery alive. 
+
+# CART 315 GAME PROTYPING: JOURNAL ENTRY 05,  Design Ideas Final Project, Prototyping Stage 2
+
+## Authors: Mollika Chakraborty & Maloney Khim 
+
+## Working Game Title: Give It Back!
+
+### Design Progress and Game Mechanics 
+
+### Game Map
+
+![Game Overview](Images/gameoverview.png)
+
+### Type of Game and Aesthetics
+2D Platformer in a Museum Setting
+Aesthetic: Pixel Art
+
+### Target Audience
+
+The target audience for this game would likely be Millenials and early Gen-Z who are interested in narrative-driven experiences with elements of stealth and puzzle-solving (optional). Additionally, individuals with an interest in history, cultural heritage, and social justice issues would be drawn to the game's themes and nuanced exploration of repatriation.
+
+### Current Game Mechanics
+
+We have been able to implement the basic goal of the game which is collecting the artifacts from a museum setting and earn points based on that. More time has been invested in designing than core technicalities uptil now, we are trying to achieve the basic interaction that can make this game "a game". The player is navigating the world, climbing ladders, avoiding enemies like the security guard, lasers, etc. and getting to the artifacts to be able to collect them and earn points. 
+
+### Character Art 
+![Player](Images/player.png)
+![Guard](Images/guard.png)
+
+### Items to be collected 
+
+![crown](Images/crown.png)
+![statue](Images/statue.png)
+![vase](Images/vase.png)
+![manuscript](Images/manuscript.png)
+![stone](Images/stone.png)
+
+### Playtesting 
+
+As this is a team project me and my teammate have been constantly trying to play while be run into issues, we have also asked our friends from the class to  try out the basic jump mechanics and moving of the character as that was the first thing we figured out. 
+For some testers the jump was bit too high given that the tiles or the platform where you need to climb as a player are placed in lower levels. This makes the game too easy for them.
+We did run into major issues in terms of collision to work for our first enely called the guard. Everytime I made changes in the guard it somehow affected my player even though both the scripts are completely different. We did spend a lot of time trouble shooting which brought us back to an older version of the game we saved becuase we lost all the progress. 
+
+### What we planned the game would do? 
+
+Artifact Repatriation: The primary goal of the game is to collect stolen artifacts and return them to their rightful cultural homes (Although this would be something we will consider as the future expansion of this game as of yet we don’t have planned of how to narrate it via the game) Players must navigate through the museum's exhibits, and overcome obstacles to achieve this objective.
+
+Educational Experience: The game aims to educate players about the complexities of cultural heritage and the impact of colonization on indigenous communities. The goal is to spark curiosity and foster a deeper appreciation for cultural diversity and historical restitution.
+
+Moral Dilemmas and Choices: Throughout the game, players may encounter moral dilemmas and choices that impact the outcome of their journey. The goal is to encourage players to reflect on their actions and consider the ethical implications of returning stolen artifacts versus preserving them in museum collections.
+
+Stealth and Strategy: Given the presence of museum guards and security systems, another goal of the game is to utilize stealth, agility, and quick thinking to evade capture and complete the mission. Players must carefully plan their actions and use the environment to their advantage to succeed.
+
+### Room  for improvisations and fututre incorporations given the time crunch we faced
+
+Narrative Exploration: As players progress through the game, they uncover little snippets of stories behind the artifacts and the historical context of their theft. The goal is to immerse players in a narrative experience that encourages empathy and understanding of different cultural perspectives.
+Diverse enemy characters: We would like to incorporate more enemy character with different power levels, and more artifacts (of course they stole a lot) would be included with more levels. With every advancing level the gameplay would start getting difficult as we would include riddle solving, answer some questions and be able to collect artifacts. 
+Every time you return these artifacts to their rightful countries you gain points and have access to different levels, although we plan to include negative marking as well which is yet to be decided. 
+
+
+
+
+
+
+
