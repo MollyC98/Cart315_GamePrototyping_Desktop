@@ -117,6 +117,7 @@ public class PlayerMovement : MonoBehaviour
         bool playerHasVerticalSpeed = Mathf.Abs(myRigidbody.velocity.y) > Mathf.Epsilon;
         myAnimator.SetBool("isClimbing", playerHasVerticalSpeed);
     }
+    
 
     void Die(){
         if(myBodyCollider.IsTouchingLayers(LayerMask.GetMask("enemy")))
@@ -127,15 +128,22 @@ public class PlayerMovement : MonoBehaviour
             StartCoroutine(Respawn(1f));
             
         }
-        else if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Laser Machine on"))) {
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Laser Machine on"))) {
 
-            isAlive = false;
+             isAlive = false;
             playHitEffect();
-
-            FindObjectOfType<GameSession>().ProcessPlayerDeath();
-            StartCoroutine(Respawn(2f));
+            StartCoroutine(destroyAfterHit());
+            Debug.Log("here collide");
 
         }
+
+  IEnumerator destroyAfterHit()
+    {
+      
+       yield return new WaitForSeconds(.25f);
+        FindObjectOfType<GameSession>().ProcessPlayerDeath();
+        StartCoroutine(Respawn(0));
+    }
 
          IEnumerator Respawn(float duration){
             spriteRenderer.enabled = false;
@@ -154,7 +162,7 @@ public class PlayerMovement : MonoBehaviour
     void playHitEffect (){
         if(hitEffect != null){
             ParticleSystem instance = Instantiate(hitEffect, transform.position, Quaternion.identity);
-            Destroy(instance.gameObject, instance.main.duration+instance.main.startLifetime.constantMax);
+            //Destroy(instance.gameObject, instance.main.duration+instance.main.startLifetime.constantMax);
         }
     }
 }
