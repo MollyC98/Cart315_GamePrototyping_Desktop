@@ -420,6 +420,14 @@ From the class presentation we understood that it was not clear that this game i
 
 ![Thunder Effect](Images/thunder.png)
 
+3) Lasers are attached to a script that regulates their switching on and off in a random speed. When it's on the collision is detected with the player and when it's off the collision switches off as well. It works well with the concept of laser security in places like museums. 
+
+4) We have done basic scoring for now within the game therefore, everytime a precious item gets picked up by the player he scores 100 points. 
+
+5) There is no game over for now, everytime the player encounters a security or if accidnetally gets hit by the lasers it automatically starts from the initial position. 
+
+
+
 
 
 
