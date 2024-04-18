@@ -396,6 +396,24 @@ Narrative Exploration: As players progress through the game, they uncover little
 Diverse enemy characters: We would like to incorporate more enemy character with different power levels, and more artifacts (of course they stole a lot) would be included with more levels. With every advancing level the gameplay would start getting difficult as we would include riddle solving, answer some questions and be able to collect artifacts. 
 Every time you return these artifacts to their rightful countries you gain points and have access to different levels, although we plan to include negative marking as well which is yet to be decided. 
 
+# CART 315 GAME PROTYPING: JOURNAL ENTRY 8, FINAL PROTOTYPING AND DESIGN JOURNAL 
+
+## Authors: Mollika Chakraborty & Maloney Khim 
+
+## Game Tile: Give It Back! 
+
+### Stages of Final Protytping, Solving Design Problems 
+
+CART 315 Game Prototyping has been an amazing journey this semester, offering us the freedom to design a game at our own pace. It wasn't just about finishing a game for the sake of completion; rather, it was about comprehending the stages of prototyping and understanding how playtesting with classmates and their feedback can significantly enhance the game design in ways we, as the authors, might not have considered.
+
+For our game, "Give It Back," both Maloney and I prioritize the visual design aspect over technical challenges. However, we acknowledge that tackling technical hurdles is an essential part of the learning process. We are satisfied with the visual aesthetics of our game, having learned a great deal about coding in C# and navigating the Unity UI. We experimented with various techniques, including Tilemaps, Lights, Postprocessing effects, VFX using Particle Systems, and implementing Cinemachine to enable a secondary camera to follow the player in the game.
+
+From the class presentation we understood that it was not clear that this game is based on a night seting, the player eneters the museum at night under the watch of the security and lasers therefore incorporating feedback like adding whisper sounds from the audience would make less sense. This issue was solved when we delved deeper into the application of Bloom which is a post processing setup that gives additional glow to the assets that emit light. Other than that we have also included Vignette setting to give a darker volume to the overall setup making the scene quite dark where the lights get highlighted further enhancing the "Night look" we were hoping.  
+
+![Final Overview of the Game](Images/overview.png)
+
+
+
 
 
 
