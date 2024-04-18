@@ -390,7 +390,7 @@ Stealth and Strategy: Given the presence of museum guards and security systems, 
 
 ## Working Game Title: Give It Back!
 
-### Room  for improvisations and fututre incorporations given the time crunch we faced
+### Room for improvisations and fututre incorporations given the time crunch we faced
 
 Narrative Exploration: As players progress through the game, they uncover little snippets of stories behind the artifacts and the historical context of their theft. The goal is to immerse players in a narrative experience that encourages empathy and understanding of different cultural perspectives.
 Diverse enemy characters: We would like to incorporate more enemy character with different power levels, and more artifacts (of course they stole a lot) would be included with more levels. With every advancing level the gameplay would start getting difficult as we would include riddle solving, answer some questions and be able to collect artifacts. 
@@ -400,7 +400,7 @@ Every time you return these artifacts to their rightful countries you gain point
 
 ## Authors: Mollika Chakraborty & Maloney Khim 
 
-## Game Tile: Give It Back! 
+## Game Title: Give It Back! 
 
 ### Stages of Final Protytping, Solving Design Problems 
 
@@ -411,6 +411,15 @@ For our game, "Give It Back," both Maloney and I prioritize the visual design as
 From the class presentation we understood that it was not clear that this game is based on a night seting, the player eneters the museum at night under the watch of the security and lasers therefore incorporating feedback like adding whisper sounds from the audience would make less sense. This issue was solved when we delved deeper into the application of Bloom which is a post processing setup that gives additional glow to the assets that emit light. Other than that we have also included Vignette setting to give a darker volume to the overall setup making the scene quite dark where the lights get highlighted further enhancing the "Night look" we were hoping.  
 
 ![Final Overview of the Game](Images/overview.png)
+
+### Overview of the prototypes, what changed in a week? 
+
+1) Aesthetically this prototype looks like a new game in comparison to the images or the protytpe we presented before. It has depth, the main camera is set to perspective which adds an additional volume to the game. Lights have been set up and animated. All the room s have different colours so that it does not get monotonous for the players. 
+
+2) I on my part of the design process played with creating vfx, playing with the particle effect in unity. Now, when the player hits the lasers it proceed with an electrocuting efffect quite similar to lightining and thunder. 
+
+![Thunder Effect](Images/thunder.png)
+
 
 
 
