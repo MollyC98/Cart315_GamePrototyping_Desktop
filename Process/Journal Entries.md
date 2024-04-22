@@ -416,7 +416,7 @@ From the class presentation we understood that it was not clear that this game i
 
 1) Aesthetically this prototype looks like a new game in comparison to the images or the protytpe we presented before. It has depth, the main camera is set to perspective which adds an additional volume to the game. Lights have been set up and animated. All the room s have different colours so that it does not get monotonous for the players. 
 
-2) I on my part of the design process played with creating vfx, playing with the particle effect in unity. Now, when the player hits the lasers it proceed with an electrocuting efffect quite similar to lightining and thunder. 
+2) I on my part of the design process played with creating vfx, playing with the particle effect in unity. Now, when the player hits the lasers it proceeds with an electrocuting efffect quite similar to lightining and thunder. 
 
 ![Thunder Effect](Images/thunder.png)
 
@@ -425,6 +425,40 @@ From the class presentation we understood that it was not clear that this game i
 4) We have done basic scoring for now within the game therefore, everytime a precious item gets picked up by the player he scores 100 points. 
 
 5) There is no game over for now, everytime the player encounters a security or if accidnetally gets hit by the lasers it automatically starts from the initial position. 
+
+6) There are some minor issues in the ladder definitely with the collider, you need to jump twice to reach the tip of the collider in order to move forward on the ground. 
+
+7) Maloney did the scoring for the game, and also the tile mapping to set up where the enemies would walk or the player would jump and walk. 
+
+8) We decided to add music, dense in nature because we were going for the "heist" felling for the game without any reveal regarding the actual motive of it. 
+
+### Feedback we received during the class 
+
+1) To not lay it out there for the players that this is a British Museum based game rather it can benefit a lot if that concept is revealed as a climax. Our prof. gave us the example of board game called Train by Brenda Romero where players get to know at the end of the game play that the train they have been building with passengers is going to Auschwitz. 
+
+2) Some of the classmates praised us for the visual design and the concept of the game mentioning that they would have quite a lot of fun playing this. 
+
+3) Some suggestions were based on how we can add audience murmurs sound as the Museums have and some NPCs that can just be there and take selfies. ALthough this could have been done if the heist did not take place at night time. 
+
+### What we could have done differently and our thoughts
+
+1) We had a concept that as a team both of us agreed to and it had potemtial, it was something differemt and we are still very happy about our choices. 
+
+2) We spent a lot of time designing of the game because as mentioned earlier both of us are more inclined towards the non-coding part of game like animation, visual design, assets designing, etc. Although with this class I would confidently  say I have learnt a lot in terms of game mechanincs and coding in C#. At the beginning of the class I mentioned that I wanted to become a gameplay animator and I am still sticking to that, but little coding doesn't hurt anyone. 
+
+3) Collaboration is the biggest take away from me through this class, I did 2 team projects with Maloney and we were really compatible with each other, supported when required and learned together. 
+
+4) Using GitHub for collaboration was not a beautiful experience. It crashed a lot, sometimes I pushed in one repository and maloney did not receive it, vice versa. At one point both our projects had merged issues and we had to go back to one of the older versions of the project to start working on it again. 
+
+5) If I would have done this project alone it would have been quite stressful but because I had a great teammate we solved issues together. 
+
+### Note for the professor 
+Thank you for this amazing semester, learned a lot from you. Entered this class with a mindset that I would learn a lot of coding but I ended up learning many other things that makes a game and not just coding. 
+
+### References 
+1) https://www.youtube.com/watch?v=j29NgzV8Dw4&list=PLX2vGYjWbI0REfhDHPpdIBjjrzDHDP-xT I was extensive following this as it helped me solve coding issues, lighting issues and it also helped with some animated assets like the hanging lamp that added greatly to the aesthetics. 
+
+2) https://www.youtube.com/watch?v=XPh0jiqf0iQ for the vfx. 
 
 
 
